@@ -1,3 +1,5 @@
+PAGE LINK ON : notesdiah.fly.dev
+
 laravel new example-app
 
 make db 
